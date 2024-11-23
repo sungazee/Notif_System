@@ -1,0 +1,4 @@
+id, canal_envoi , date_envoi, date_notif, date_op, est_envoye, est_notifie, file_name, id_liaison,message,montant_notif,n_client,num_tel,email,type_notif, valide
+80, email, 20/03/2024, 21/03/2024, 22/03/2024, oui, oui, file80.txt, 180, "Message 80", 8000.00, 12424, "+212612427411", anasbaslih003@gmail.com, type2, non
+81, email, 21/03/2024, 22/03/2024, 23/03/2024, non, non, file81.txt, 181, "Message 81", 8100.25, 12425, "+212612427411", anasbaslih03@gmail.com, type1, oui
+82, sms, 22/03/2024, 23/03/2024, 24/03/2024, non, oui, file82.txt, 182, "Message 82", 8200.50, 12426, "+212612427411", anas.baslih@uit.ac.ma, type2, non
